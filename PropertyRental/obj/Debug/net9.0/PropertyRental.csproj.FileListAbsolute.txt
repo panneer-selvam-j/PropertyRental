@@ -643,3 +643,4 @@ C:\Users\pselvam\Source\Repos\asp_dot_net_core_sample\PropertyRental\obj\Debug\n
 C:\Users\pselvam\Source\Repos\asp_dot_net_core_sample\PropertyRental\obj\Debug\net9.0\PropertyRental.genruntimeconfig.cache
 C:\Users\pselvam\Source\Repos\asp_dot_net_core_sample\PropertyRental\obj\Debug\net9.0\ref\PropertyRental.dll
 C:\Users\pselvam\Source\Repos\asp_dot_net_core_sample\PropertyRental\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\pselvam\source\repos\JP_GitProjects\PropertyRental\PropertyRental\obj\Debug\net9.0\PropertyRental.pdb
