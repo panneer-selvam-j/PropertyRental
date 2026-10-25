@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="jpnewwebapp" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\pselvam\\Source\\Repos\\asp_dot_net_core_sample\\PropertyRental\\obj\\Debug\\net9\.0\\win-x86\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

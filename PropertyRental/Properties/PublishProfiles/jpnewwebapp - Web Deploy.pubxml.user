@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <History>True|2026-10-22T02:52:03.2981996Z||;True|2026-10-21T22:33:12.8571271-04:00||;True|2026-10-21T22:30:47.6741038-04:00||;True|2026-10-21T22:28:11.8198398-04:00||;True|2026-10-21T22:25:53.4237825-04:00||;True|2026-10-21T22:22:17.6691028-04:00||;True|2026-10-21T22:20:56.9318509-04:00||;True|2026-10-21T22:20:06.9530815-04:00||;True|2026-10-21T22:14:49.8926306-04:00||;True|2026-10-21T22:12:48.5065169-04:00||;True|2026-10-21T20:45:36.1814190-04:00||;True|2026-10-21T20:44:44.3119115-04:00||;False|2026-10-21T20:43:18.2187483-04:00||;True|2026-10-21T20:36:28.3216016-04:00||;False|2026-10-21T20:31:31.2711980-04:00||;False|2026-10-21T17:24:27.5631814-04:00||;False|2026-10-21T17:23:16.0289951-04:00||;True|2026-10-21T17:16:56.6122939-04:00||;True|2026-10-21T17:12:34.7114272-04:00||;True|2026-10-21T17:08:18.7930805-04:00||;True|2026-10-21T16:06:19.0327971-04:00||;True|2026-10-21T14:08:34.0731642-04:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=tcp:naturewealth.database.windows.net,1433%3bInitial Catalog=nwdb%3bPersist Security Info=False%3bUser ID=pselvam%3bPassword=India%401234%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
